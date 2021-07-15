@@ -1,0 +1,12 @@
+{
+  "token": "ODY1MDM0ODEzMDcxOTQ5ODY1.YO-Icw.cXQscK_YzENrBxFTZrDlTE4MgI8",
+  "prefix": "!",
+  "serverAddress": "play.isolatednetwork.ml",
+  "serverPort": "25565",
+  "serverName": "Isolated Network",
+  "updateInterval": "1min",
+  "showPlayerSample": true,
+  "debugMode": true,
+  "debugLvl": 1,
+  "pinUpdate": true
+}
